@@ -33,7 +33,7 @@ elif (user ==2):
   incr_x = 9
   incr_y =-9
 elif (user ==3):
-  delta =3
+  delta =5
   incr_x = 15
   incr_y =-15
 else:
